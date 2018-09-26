@@ -1,0 +1,39 @@
+
+.box-modle {
+    margin: 50px;
+    padding: 50px;
+    border: solid 20px red;
+    width: 500px;
+    
+    
+    overflow: scroll;
+    
+}
+
+
+
+
+
+
+/*
+.bob {
+    font-weight:600
+    color: blueviolet;
+    background-color: hotpink;
+    
+}
+
+.rick {
+    font-style: italic;
+    font-family: Avenir, Arial, sans-serif;
+    
+    
+}
+
+#feature {
+    color: papayawhip;
+    background-color: aqua;
+    font-size: 24px;
+    
+}
+*/
